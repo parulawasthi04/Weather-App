@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: linear-gradient(
+    to right,
+    rgb(66, 66, 225),
+    rgb(176, 176, 186)
+  );
+}
+.weather-container {
+  border-radius: 5px;
+  background-color: rgb(67, 67, 171);
+  height: 200px;
+  width: 400px;
+  margin-left: 400px;
+  margin-top: 200px;
+  padding: 20px;
+  box-shadow: 10px 10px rgb(22, 42, 49);
+}
+button {
+  border-radius: 5px;
+  background-color: rgb(188, 111, 51);
+  color: white;
+  padding: 5px;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+input {
+  width: 400px;
+  height: 30px;
+}
+h1 {
+  margin-left: 100px;
+}
+.weather-info {
+  margin-top: 10px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
