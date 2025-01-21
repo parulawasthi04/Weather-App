@@ -9,9 +9,13 @@ Error Handling: Alerts for invalid city names or API-related issues.
 Location-Based Weather (optional): Automatically fetch weather based on the user's location (if permissions are granted).
 
 🛠️ Technologies Used
+
 HTML: Structure of the application.
+
 CSS: Styling for a modern, clean, and responsive interface.
+
 JavaScript: Logic to fetch and display weather data.
+
 Weather API: Retrieves real-time weather information (e.g., OpenWeatherMap, WeatherStack).
 
 🔧 Prerequisites
