@@ -18,30 +18,6 @@ JavaScript: Logic to fetch and display weather data.
 
 Weather API: Retrieves real-time weather information (e.g., OpenWeatherMap, WeatherStack).
 
-🔧 Prerequisites
-A free API key from a weather API provider like OpenWeatherMap.
-Basic knowledge of HTML, CSS, and JavaScript.
-
-📂 Project Structure
-Weather-App/
-├── index.html        # Main HTML file
-├── style.css         # CSS file for styling
-├── script.js         # JavaScript file for app logic
-└── README.md         # Project documentation
-
-⚙️ Installation
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/weather-app.git
-Navigate to the project directory:
-bash
-Copy
-Edit
-cd weather-app
-Open index.html in your browser to view the app.
-
 🌐 How to Use
 Search for a City: Enter the name of any city in the search box and press Enter or click the search button.
 View Weather Data: See the current temperature, weather description, humidity, and wind speed.
