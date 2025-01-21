@@ -32,9 +32,6 @@ javascript
 
 "ScreenShot Lagana hai"
 
-🛡️ License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 💡 Future Improvements
 Add a 5-day weather forecast feature.
 Include weather icons based on conditions (e.g., sunny, rainy, cloudy).
