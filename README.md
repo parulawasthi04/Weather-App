@@ -30,7 +30,7 @@ Copy your API key.
 Replace YOUR_API_KEY in script.js with your API key.
 javascript
 
-"ScreenShot Lagana hai"
+Project Link: https://parulawasthi04.github.io/Weather-App/
 
 💡 Future Improvements
 Add a 5-day weather forecast feature.
